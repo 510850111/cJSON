@@ -1,0 +1,25 @@
+﻿  cJson.c
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(18,11): warning C4090: “return”: 不同的“const”限定符
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(152,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(361,12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(368,12): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(376,67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(377,48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(378,11): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(387,1): warning C4029: 声明的形参表不同于定义
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(402,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(408,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(420,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(457,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(502,37): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(530,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(489,12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(606,58): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(639,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(645,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(855,55): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson.c(855,50): warning C4024: “cJSON_DetachItemFromObject”: 形参和实参 2 的类型不同
+  example.c
+E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\example.c(33,6): warning C4013: “free”未定义；假设外部返回 int
+  正在生成代码...
+  cJson解析器项目.vcxproj -> E:\nutFile\学习资料\业余\programing\Github_repo\cJSON\cJson解析器项目\x64\Debug\cJson解析器项目.exe
